@@ -6,7 +6,7 @@ I'm an Electrical and Electronic Engineering (EEE) student at **IUBAT — Intern
 
 My interests include embedded systems, robotics, IoT, custom PCB development, automation, and hardware R&D.
 
-- 🔭 **Currently working on:** Smart Battery Management System (BMS)
+- 🔭 **Currently working on:** Smart Battery Management System (BMS) & Motor Controller for Electric Vehicle
 - 🌱 **Currently learning:** Embedded firmware development, STM32, and battery management technologies
 - 🛠️ **Building with:** Arduino, ESP32, sensors, and custom PCBs
 - 🔬 **Research interests:** Battery systems, industrial communication, and intelligent electronic systems
